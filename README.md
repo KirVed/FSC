@@ -1,6 +1,9 @@
 # FSCmeas
 
-Minimal scaffold project created by assistant.
+Example project to perform measurements with R&S spectrum analyser FSC
+
+See more about RSinstrument package here:
+https://rsinstrument.readthedocs.io/en/latest/index.html
 
 ## What's included
 - `src/` - main package
@@ -13,5 +16,3 @@ Minimal scaffold project created by assistant.
 1. Create a Python 3.11 virtual environment
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run tests: `pytest`
-
-Replace this README with your project-specific instructions.
