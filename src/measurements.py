@@ -2,7 +2,7 @@ import time
 
 class Measurements:
 
-    def powerCW(sa, freq, span):
+    def PeakSearch(sa, freq, span):
         
         #test parameters
         meas_freq = 0  # MHz
